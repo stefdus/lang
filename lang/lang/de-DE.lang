@@ -1,0 +1,9 @@
+%CURRENCY='€'
+%SEPERATOR='.'
+%DECIMAL=','
+%DATE='d.m.Y' #http://php.net/manual/de/function.date.php
+
+
+SEARCH='Ausdruck'
+AMOUNT='Das kostet {}.'
+APPOINTMENT='Wir treffen uns am {}, wenn Du nichts dagegen hast.'
